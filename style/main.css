@@ -1,0 +1,37 @@
+.container{
+    max-width: 1024px;
+    margin: auto;
+}
+a{
+    text-decoration: none;
+}
+a:hover{
+    text-decoration: underline;
+}
+.photo{
+    text-align: center;
+}
+div + div{
+    margin-top: 50px;
+}
+.contacts{
+    text-align: center;
+}
+.contacts a:last-child{
+    margin-left: 30px;
+}
+.about{
+    text-align:center;
+}
+.skills h3{
+    text-align: center;
+}
+.example{
+    text-align: center;
+}
+.expirience, .english, .education h3{
+    text-align: center;
+}
+.expirience a:last-child{
+    margin-left: 50px;
+}
